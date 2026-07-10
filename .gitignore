@@ -1,6 +1,9 @@
 node_modules
+<<<<<<< HEAD
 .pnpm-store
 .worldbook
+=======
+>>>>>>> 299b9bb0dd0e1b9c9863f20ca4cbc261e552bdd5
 
 .DS_Store
 Thumbs.db
