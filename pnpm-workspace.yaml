@@ -1,8 +1,11 @@
 allowBuilds:
   '@parcel/watcher': true
+<<<<<<< HEAD
   '@tailwindcss/oxide': true
   electron: true
   esbuild: true
   javascript-obfuscator: true
+=======
+>>>>>>> c3dda85b40baa6188b2eff4e263cb20fedabcecf
   unrs-resolver: true
   vue-demi: true
